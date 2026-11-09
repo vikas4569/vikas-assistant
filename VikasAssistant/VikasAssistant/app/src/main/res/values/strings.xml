@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vikas Assistant</string>
+    <string name="a11y_desc">Sirf "Close app" (Force stop) ke liye Settings screen par button dabata hai. Koi data read/store/send nahi hota.</string>
+</resources>
